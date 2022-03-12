@@ -1,6 +1,6 @@
 {
   "name": "FlxFixedShader",
-  "url" : "https://github.com/larsiusprime/polymod",
+  "url" : "https://github.com/McJonnycat/Flixel-shader-fix",
   "license": "MIT",
   "tags": ["mod","game"],
   "description": "A FNF Shader fix for Haxe Shaders",
