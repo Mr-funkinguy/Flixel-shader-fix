@@ -1,4 +1,6 @@
-import flixel.system.FlxAssets.FlxShader;
+package fixedFlxShaders; 
+
+import flixel.system.FlxAssets.FlxShader; 
 
 using StringTools;
 
