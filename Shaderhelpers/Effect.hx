@@ -1,4 +1,4 @@
-package fixedFlxShaders; 
+package Shaderhelpers; 
 //this is bbpanzu code for the effect not mine 
 class Effect {
 	public function setValue(shader:FlxShader, variable:String, value:Float){
