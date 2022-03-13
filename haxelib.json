@@ -4,8 +4,8 @@
   "license": "MIT",
   "tags": ["mod","game"],
   "description": "A FNF Shader fix for Haxe Shaders",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "releasenote": "",
-  "contributors": ["Jonnycat","YoshiCrafter29"],
+  "contributors": ["Jonnycat","YoshiCrafter29","bbpanzu"],
   "dependencies": {}
 }
