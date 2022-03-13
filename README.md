@@ -12,4 +12,4 @@
 2. Paste this `<haxelib name=flixel-shader-fix/>` into your project.xml right below the text where it says ui packages.
 3. Go to your shader that is not working and import it by doing `import shaderhelpers.FlxFixedShader;` and delete the line of code that says `import flixel.system.FlxAssets.FlxShader;` since you won't really need it .  
 4. Then after you have done that then go to the class name that says this for example `class GlitchShader extends FlxShader` change it to `class GlitchShader extends FlxFixedShader` 
-5. Then that is it you have finally fix your shader i hope you fix your shader. 
+5. Then that is it you have finally fix your shader i hope you fix your shaders. 
